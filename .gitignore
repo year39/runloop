@@ -1,0 +1,5 @@
+/.ccls-cache
+/build
+/test/build
+*.txt.user
+compile_commands.json
